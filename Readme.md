@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainForm.cs](./CS/ReportServerWinFormsClientDemo/MainForm.cs) (VB: [MainForm.vb](./VB/ReportServerWinFormsClientDemo/MainForm.vb))
+<!-- default file list end -->
 # Report Server - Get the list of reports and display a preview in a WinForms application
 
 
